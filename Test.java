@@ -5,8 +5,8 @@ public class ExampleIf {
 
 	public static void main(String[] args) {
 
-		int x=440;
-		int y=220;
+		int x=40;
+		int y=20;
 		
 		if (x<y){
 			System.out.println("X is less than Y");
